@@ -14,7 +14,7 @@ TOKEN={{YOUR_YO_TOKEN}}
 curl --data "api_token=$TOKEN&username={query}" http://api.justyo.co/yo/
 ```
 
-4. Yo! to your heart's content and to your friends' growing annoyances.
+__You are set!__ Yo! to your heart's content and to your friends' growing annoyances.
 
 ## How to use
 
