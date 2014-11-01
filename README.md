@@ -5,17 +5,13 @@ Yo! with Alfred
 
 1. You must have Alfred powerpack to use workflows. Buy the powerpack [here](https://buy.alfredapp.com/).
 
-2. Git clone this repo into your Alfred workflow directory.
+2. Click [here](https://raw.github.com/lambtron/yo-alfred/master/yo-alfred.alfredworkflow) to download the workflow.
 
-Ex:
-```
-$ cd ~/Dropbox/Alfred/Alfred.alfredpreferences/workflows/
-$ git clone git@github.com:lambtron/yo-alfred.git
-```
+3. Double click on the file to add it to Alfred.
 
-2. Register an application with Yo! [here](http://dev.justyo.co/).
+4. Register an application with Yo! [here](http://dev.justyo.co/).
 
-3. Paste your Yo! app token in the Alfred workflow script, as such:
+5. Paste your Yo! app token in the Alfred workflow script, as such:
 
 ```
 TOKEN={{YOUR_YO_TOKEN}}
