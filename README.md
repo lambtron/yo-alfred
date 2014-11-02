@@ -9,9 +9,10 @@ Yo! with Alfred
 
 3. Double click on the file to add it to Alfred.
 
-4. Register an application with Yo! [here](http://dev.justyo.co/).
+_Optional, if you want to change the sender name from YOALFRED._
+4a. Register an application with Yo! [here](http://dev.justyo.co/) with an app name of your choosing. Note this app name will be what the recipient sees.
 
-5. Paste your Yo! app token in the Alfred workflow script, as such:
+4b. Paste your Yo! app token in the Alfred workflow script, as such:
 
 ```
 TOKEN={{YOUR_YO_TOKEN}}

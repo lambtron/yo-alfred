@@ -28,7 +28,7 @@
 				<key>keyword</key>
 				<string>yo!</string>
 				<key>script</key>
-				<string>TOKEN=REPLACEME
+				<string>TOKEN=e919b833-e89c-401a-91b7-13a953819385
 curl --data "api_token=$TOKEN&amp;username={query}" http://api.justyo.co/yo/</string>
 				<key>title</key>
 				<string>Yo! with Alfred.</string>
