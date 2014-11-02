@@ -26,4 +26,4 @@ __You are set!__ Yo! to your heart's content and to your friends' growing annoya
 
 Just type `yo! andyjiang` in your Alfred console.
 
-Happy coding! Direct all hate tweets @andyjiang.
+Happy coding! Direct all hate tweets [@andyjiang](http://twitter.com/andyjiang).
